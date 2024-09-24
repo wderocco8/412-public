@@ -11,12 +11,12 @@ Please let me know (open an issue, post on piazza, or email me at wderocco@bu.ed
 - [Tips and Tricks for "Easier" Django Development](#tips-and-tricks-for-easier-django-development)
   - [Summary](#summary)
   - [Table of Contents](#table-of-contents)
-  - [Select Python Interpreter](#select-python-interpreter)
+  - [1. Select Python Interpreter](#1-select-python-interpreter)
     - [What's wrong with default interpreter:](#whats-wrong-with-default-interpreter)
     - [Solution](#solution)
     - [Video walkthrough](#video-walkthrough)
 
-## Select Python Interpreter
+## 1. Select Python Interpreter
 
 By default, VSCode my not assign the correct [Python interpreter](https://code.visualstudio.com/docs/python/environments) when opening your Django folder.
 
