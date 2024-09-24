@@ -9,4 +9,5 @@ Please let me know (open an issue, post on piazza, or email me at wderocco@bu.ed
 ## Table of Contents
 
 ## Select Python Interpreter
-![Demo](select-python-interpreter.mp4)
+
+[![Watch the video](https://img.youtube.com/vi/7TAE_Smo_hc/maxresdefault.jpg)](https://youtube.com/shorts/7TAE_Smo_hc)
