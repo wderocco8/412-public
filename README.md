@@ -83,4 +83,3 @@ Below are a list of VSCode extensions that I personally use to make development 
 - [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) (really useful for quickly setting up a `base.html` file)
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
-- 
