@@ -15,6 +15,10 @@ Please let me know (open an issue, post on piazza, or email me at wderocco@bu.ed
     - [What's wrong with default interpreter:](#whats-wrong-with-default-interpreter)
     - [Solution](#solution)
     - [Video walkthrough](#video-walkthrough)
+  - [2. Configure VSCode `Emmet: Include Languages`](#2-configure-vscode-emmet-include-languages)
+    - [What's wrong not including `Django-HTML`:](#whats-wrong-not-including-django-html)
+    - [Solution](#solution-1)
+      - [Demo](#demo)
 
 ## 1. Select Python Interpreter
 
@@ -46,6 +50,23 @@ By default, VSCode my not assign the correct [Python interpreter](https://code.v
 
 You should only have to complete these steps once for you given django project!
 
-
 ### Video walkthrough
 [![Watch the video](https://img.youtube.com/vi/7TAE_Smo_hc/maxresdefault.jpg)](https://youtube.com/shorts/7TAE_Smo_hc)
+
+## 2. Configure VSCode `Emmet: Include Languages`
+
+This setup is used to configure abbreviations in languages that are not supported by default in VSCode. For you all, the most relevant one is `Django-HTML` (which is the file type that VSCode automtically recognizes for HTML files loated in your Django projects).
+
+### What's wrong not including `Django-HTML`:
+- By default, Emmet does not work in Django-HTML files. This means you won’t be able to use Emmet’s shorthand for expanding HTML elements, which can significantly slow down your workflow, especially when working with templates that contain a lot of HTML.
+
+
+### Solution
+
+1. Open your VSCode settings (Ctrl + , or Cmd + , on macOS).
+1. Search for `Emmet: Include Languages` in the settings search bar.
+3. Click on "Add item"
+4. Add the following configuration to associate Django-HTML with HTML:
+
+#### Demo
+![alt text](image.png)
