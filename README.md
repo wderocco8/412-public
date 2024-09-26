@@ -19,6 +19,7 @@ Please let me know (open an issue, post on piazza, or email me at wderocco@bu.ed
     - [What's wrong not including `Django-HTML`:](#whats-wrong-not-including-django-html)
     - [Solution](#solution-1)
       - [Demo](#demo)
+  - [3. Useful VSCode extensions 🛠️🛠️](#3-useful-vscode-extensions-️️)
 
 ## 1. Select Python Interpreter
 
@@ -65,8 +66,21 @@ This setup is used to configure abbreviations in languages that are not supporte
 
 1. Open your VSCode settings (Ctrl + , or Cmd + , on macOS).
 1. Search for `Emmet: Include Languages` in the settings search bar.
-3. Click on "Add item"
-4. Add the following configuration to associate Django-HTML with HTML:
+3. Click on "Add item"go-HTML with HTML:
 
 #### Demo
 ![alt text](image.png)
+
+## 3. Useful VSCode extensions 🛠️🛠️
+
+Below are a list of VSCode extensions that I personally use to make development a bit easier (especially when working with Django-HTML). Feel free to let us know if any are missing!
+
+- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Auto Docstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [Black Formatter](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) (for Python)
+- [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) (really useful for quickly setting up a `base.html` file)
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+- 
