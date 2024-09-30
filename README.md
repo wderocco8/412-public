@@ -8,18 +8,30 @@ Please let me know (open an issue, post on piazza, or email me at wderocco@bu.ed
 
 ## Table of Contents
 
-- [Tips and Tricks for "Easier" Django Development](#tips-and-tricks-for-easier-django-development)
-  - [Summary](#summary)
-  - [Table of Contents](#table-of-contents)
-  - [1. Select Python Interpreter](#1-select-python-interpreter)
-    - [What's wrong with default interpreter:](#whats-wrong-with-default-interpreter)
-    - [Solution](#solution)
-    - [Video walkthrough](#video-walkthrough)
-  - [2. Configure VSCode `Emmet: Include Languages`](#2-configure-vscode-emmet-include-languages)
-    - [What's wrong not including `Django-HTML`:](#whats-wrong-not-including-django-html)
-    - [Solution](#solution-1)
-      - [Demo](#demo)
-  - [3. Useful VSCode extensions 🛠️🛠️](#3-useful-vscode-extensions-️️)
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#1-select-python-interpreter">Select Python Interpreter</a>
+      <ul>
+        <li><a href="#whats-wrong-with-default-interpreter">What's wrong with default interpreter</a></li>
+        <li><a href="#solution">Solution</a></li>
+        <li><a href="#video-walkthrough">Video walkthrough</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#2-configure-vscode-emmet-include-languages">Configure VSCode <code>Emmet: Include Languages</code></a>
+      <ul>
+        <li><a href="#whats-wrong-not-including-django-html">What's wrong not including `Django-HTML`</a></li>
+        <li><a href="#solution-1">Solution</a></li>
+        <li><a href="#demo">Demo</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#3-useful-vscode-extensions-️️">Useful VSCode extensions 🛠️🛠️</a>
+    </li>
+  </ol>
+</details>
 
 ## 1. Select Python Interpreter
 
